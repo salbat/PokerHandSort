@@ -1,4 +1,4 @@
-# PokerHandSort-
+# PokerHandSort
 Poker Hand Sort Coding Exercise in Kotlin
 
 ### Directory Structure
@@ -21,7 +21,8 @@ Simply, import the project root directory into Intellij IDEA and from the main m
 
 
  - The JAR file will be generated and stored in `out/artifacts/PokerHandSorter` directory
-  ![Alt text](/../master/screenshots/JAR-Directory-Structure.png?raw=true "Code Results")
+ 
+ ![Alt text](/../master/screenshots/JAR-Directory-Structure.png?raw=true "Code Results")
 
 - Now, you can use the terminal command line to run the file as instructured in the PDF file. To use that from the root directory:
   - `cd out/artifacts/PokerHandSorter`
